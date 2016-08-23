@@ -12,5 +12,5 @@ $.rate({
             sumPoints: 5,
 
             //好评数
-            goodPoints: 2.5
+            goodPoints: 2
         });
