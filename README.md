@@ -4,6 +4,7 @@
 组件参数：
 
 $.rate({
+            
             //评分区域对象
             rateObj: $('#J_RateItems'),
 
